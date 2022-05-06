@@ -1,3 +1,8 @@
+#@Author:Yufeng Wang
+#@date:2022-5-6
+#@Project Manual:https://airscker.github.io/Align_IMG_NSRL/
+#@Copyright(C)Yufeng wang(Airscker), 2022
+#@License:GPL V3.0
 import cv2
 import numpy as np
 import os
